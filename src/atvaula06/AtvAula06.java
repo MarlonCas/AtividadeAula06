@@ -43,8 +43,8 @@ public class AtvAula06 {
      
      p1.curso[0] = "Matematica";
      p1.salario = 2000.00;
-     double inss = ( 0.09*p1.salario );
-     double ir = ( 0.075 * p1.salario);
+     double inss = ( 0.09 * p1.salario );
+     double ir = ( 0.075 * p1.salario );
     
      
     System.out.println("\nO Salário Liquido de " + p1.nome
