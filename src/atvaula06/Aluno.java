@@ -6,20 +6,13 @@ package atvaula06;
  */
 public class Aluno extends Pessoa{
     
-    public String curso[];
-    public double nota[];
-    
-  
-   
-    
-    
+    public String curso[] = new String[3];
+    public double nota[][] = new double[3][3];
     
     public Aluno(){
      super();
     
     }
-    
-    //String curso[] = new String[3];
     
 } 
         
